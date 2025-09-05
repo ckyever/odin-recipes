@@ -5,3 +5,21 @@ html {
 *, *::before, *::after {
   box-sizing: inherit
 }
+
+
+a:hover {
+  text-decoration: none;
+}
+
+.card {
+  height: 400px;
+  width: 400px;
+  background-color: darkcyan;
+  color: white;
+  margin: 20px auto 0 auto;
+  padding: 32px;
+}
+
+.card a {
+  color: white;
+}
