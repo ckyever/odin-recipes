@@ -18,8 +18,23 @@ a:hover {
   color: white;
   margin: 20px auto 0 auto;
   padding: 32px;
+  text-align: center;
 }
 
 .card a {
   color: white;
+  text-underline-offset: 4px;
+}
+
+.card li {
+  margin: 8px 0;
+  list-style: none; 
+}
+
+.card ul {
+  padding: 0;
+}
+
+li.placeholder-recipe {
+  margin-top: 24px;
 }
