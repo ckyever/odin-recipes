@@ -19,6 +19,7 @@ a:hover {
   margin: 20px auto 0 auto;
   padding: 32px;
   text-align: center;
+  border: 16px double white;
 }
 
 .card a {
