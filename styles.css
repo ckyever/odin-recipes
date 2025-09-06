@@ -15,6 +15,10 @@ a:hover {
   text-decoration: none;
 }
 
+li.placeholder-recipe {
+  margin-top: 24px;
+}
+
 .card {
   height: 400px;
   width: 400px;
@@ -40,6 +44,7 @@ a:hover {
   padding: 0;
 }
 
-li.placeholder-recipe {
-  margin-top: 24px;
+.recipe {
+  width: 800px;
+  margin: 0 auto;
 }
