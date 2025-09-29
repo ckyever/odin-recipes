@@ -1,10 +1,10 @@
-# Landing Page
-A landing page for a fictional tennis club with HTML5, CSS3, and JavaScript (ES6+).
+# Recipe Website
+A recipe website built with HTML5, CSS3, and JavaScript (ES6+).
 
-👉 [Live Demo](https://ckyever.github.io/landing-page/)
+👉 [Live Demo](https://ckyever.github.io/odin-recipes)
 
 ## Acknowledgement
-Project inspired from [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page).
+Project inspired from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).
 
 ## License
 * [MIT License](https://opensource.org/license/MIT)
