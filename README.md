@@ -1,5 +1,5 @@
 # Recipe Website
-A recipe website built with HTML5, CSS3, and JavaScript (ES6+).
+A recipe website built with HTML5 and CSS3.
 
 👉 [Live Demo](https://ckyever.github.io/odin-recipes)
 
